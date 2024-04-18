@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFCourseManagement", "WPFCourseManagement\WPFCourseManagement.csproj", "{284DAB06-BDA7-4215-9A87-C74F0397051A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainningControls", "TrainningControls\TrainningControls.csproj", "{0547BD3D-870E-405F-8845-380DAEF1E930}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{284DAB06-BDA7-4215-9A87-C74F0397051A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{284DAB06-BDA7-4215-9A87-C74F0397051A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{284DAB06-BDA7-4215-9A87-C74F0397051A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{284DAB06-BDA7-4215-9A87-C74F0397051A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0547BD3D-870E-405F-8845-380DAEF1E930}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0547BD3D-870E-405F-8845-380DAEF1E930}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0547BD3D-870E-405F-8845-380DAEF1E930}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0547BD3D-870E-405F-8845-380DAEF1E930}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B742E3D4-3164-48F7-BF54-ADB48F36BF1B}
+	EndGlobalSection
+EndGlobal
